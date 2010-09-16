@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/MAfifi/myWrittenPrograms/c++Programs/privatePrograms/feedTime/main.cpp
+config.h
+-
+set
+-
+stdlib.h
+-
+vector
+-
+
